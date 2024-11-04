@@ -81,7 +81,7 @@ void loop() {
     Serial.println("Relay is OFF");
   }
 
-  delay(10000);  // Update every second
+  delay(10000);  // Update every 10 seconds
 }
 ```
 
